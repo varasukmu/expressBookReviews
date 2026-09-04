@@ -1,0 +1,6 @@
+{
+  "message": "The review for the book with ISBN 1 has been added/updated.",
+  "reviews": {
+    "testuser": "This is an amazing book!"
+  }
+}
